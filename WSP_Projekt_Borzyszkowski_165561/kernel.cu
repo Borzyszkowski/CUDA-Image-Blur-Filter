@@ -155,7 +155,7 @@ int main(int argc, char** argv) {
 	cout << "Blurring the given image..." << endl;
 
 	// Read the arguments
-	const char* input_file = "ETI.png";
+	const char* input_file = "ALP.png";
 	const char* output_fileGPU = "blurred_GPU.png";
 	const char* output_fileCPU = "blurred_CPU.png";
 
